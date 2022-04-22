@@ -1,0 +1,12 @@
+{
+  "name": "exercise-giphy",
+  "version": "1.0.0",
+  "description": "Tu aplicación se conectará con la API de Giphy, así que primero créate una cuenta de usuario y luego crea una app en Giphy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
